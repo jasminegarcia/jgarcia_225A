@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+- `raw_data` = data from dan's paper(bunis etal 2021)
+- `doc` = spurce ;it
+- `results` = plots etc
+- ` src` = source
+
+
